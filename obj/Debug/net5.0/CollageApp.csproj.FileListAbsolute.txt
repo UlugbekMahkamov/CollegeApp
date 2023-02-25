@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\.net practise\CollageApp\CollageApp\obj\Debug\net5.0\CollageApp.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\.net practise\CollageApp\CollageApp\obj\Debug\net5.0\CollageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\.net practise\CollageApp\CollageApp\obj\Debug\net5.0\CollageApp.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\.net practise\CollageApp\CollageApp\obj\Debug\net5.0\CollageApp.AssemblyInfo.cs
+C:\Users\acer\Desktop\.net practise\CollageApp\CollageApp\obj\Debug\net5.0\CollageApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\.net practise\CollageApp\CollageApp\obj\Debug\net5.0\CollageApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\.net practise\CollageApp\CollageApp\obj\Debug\net5.0\CollageApp.MvcApplicationPartsAssemblyInfo.cache
